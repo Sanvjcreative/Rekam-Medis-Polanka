@@ -31,15 +31,6 @@ Sistem Rekam Medis Polanka adalah aplikasi manajemen rekam medis untuk fasilitas
 - Web Server (Apache/Nginx)
 
 
-
-## Penggunaan
-
-1. Akses aplikasi melalui browser: `http://localhost:8000`
-2. Login menggunakan kredensial default:
-   - Admin: admin@example.com / password
-   - Dokter: doctor@example.com / password
-   - Staff: staff@example.com / password
-
 ## Struktur Project
 
 ```
